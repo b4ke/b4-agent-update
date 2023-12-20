@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "main": "src/index.js",
   "repository": "https://github.com/misikdmytro/task-management.git",
-  "author": "Dmytro Misik",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "start": "node src/index.js",
